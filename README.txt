@@ -7,8 +7,5 @@ First commit
 This widget is just for the CoolNewFeature
 
 another fancy dan thing
-<<<<<<< HEAD
-=======
 
 F2
->>>>>>> CoolNewFeature
